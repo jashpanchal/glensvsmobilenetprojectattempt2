@@ -1,0 +1,43 @@
+
+.copy_right_footer{
+    position: fixed;
+    text-align: center;
+    line-height: 2;
+    width: 100%;
+    color:lime;
+    bottom: 0;
+    background-color: grey;
+}
+
+.test_image_and_result{
+    background-color: grey;
+    padding: 20px;
+    padding-left: 20px;
+    border-width: 10px;
+    border-radius: 20px;
+    border-style:double;
+    border-color: white;
+}
+
+.mini-result{
+    text-align: center;
+}
+
+#conclusion{
+    text-align: center;
+    background-color: pink;
+    border: 2px solid;
+    border-radius: 20px;
+    line-height: 2;
+    width: 90%;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    
+}
+b{
+    font-size: large;
+    color:blanchedalmond;
+}
+img{
+    border-radius: 20px;
+}
